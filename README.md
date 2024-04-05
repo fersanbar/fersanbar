@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fernando</h1>
 <h3 align="center">A passionate software Enginner from Mexico.</h3>
 
-- 🌱 I’m currently learning **ReactJS**
+- 🌱 I’m currently learning **Flutter**
 
 - 📫 How to reach me **fer-sanchezb@hotmail.com**
 
